@@ -17,7 +17,7 @@ copy_file(os.path.join(dir_path, 'sendgrid', 'VERSION.txt'),
           verbose=0)
 
 setup(
-    name='sendgrid',
+    name='sendgrid6',
     version=version,
     author='Elmer Thomas, Yamil Asusta',
     author_email='dx@sendgrid.com',
